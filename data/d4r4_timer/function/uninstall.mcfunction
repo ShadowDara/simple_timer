@@ -1,0 +1,3 @@
+scoreboard objectives remove d4r4_timer
+scoreboard objectives remove runtime
+bossbar remove minecraft:d4r4_cd
