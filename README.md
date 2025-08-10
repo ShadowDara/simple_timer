@@ -1,5 +1,7 @@
 # Simple Timer Datapack:
 
+### [Download here](https://modrinth.com/datapack/timer-datapack/versions)
+
 This Datapack introduces a simple, customizable timer and countdown feature in various colors, making it perfect for mini-games, events, or personal projects. It’s easy to set up and use, and works seamlessly within your existing Minecraft worlds.
 
 It adds a timer and countdown system that is customizable in different colors _(soon for the countdown system)_, allowing you to fit it to the theme of your game or event.
