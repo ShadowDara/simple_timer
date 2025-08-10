@@ -6,6 +6,12 @@ This Datapack introduces a simple, customizable timer and countdown feature in v
 
 It adds a timer and countdown system that is customizable in different colors _(soon for the countdown system)_, allowing you to fit it to the theme of your game or event.
 
+# Menu
+The Menu can be opened with
+```
+/trigger timer_trigger set 24
+```
+
 # Important
 **If you try to add the _Datapack_ in a newer/older version, you may see a message like this:**
 ```
