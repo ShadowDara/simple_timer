@@ -1,3 +1,5 @@
+# End the countdown at 0
+
 scoreboard players set countdown_st runtime 0
 bossbar set 1 visible false
 

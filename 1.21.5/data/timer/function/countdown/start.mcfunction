@@ -1,3 +1,5 @@
+# Starting the Countdown
+
 scoreboard players set countdown_st runtime 1
 
 bossbar set minecraft:1 players @a

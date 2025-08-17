@@ -26,4 +26,4 @@ execute if score color runtime matches 14 run function timer:color/red
 execute if score color runtime matches 15 run function timer:color/white
 execute if score color runtime matches 16 run function timer:color/yellow
 
-execute if score rainbow runtime matches 1.. run function timer:color/rainbow/start
+execute if score rainbow runtime matches 1.. run function timer:color/rainbow/start#
