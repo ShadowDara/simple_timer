@@ -1,3 +1,4 @@
+# Add One second to the Timer on every run
 scoreboard players add s runtime 1
 
 execute if score s runtime matches 60.. run scoreboard players add m runtime 1
