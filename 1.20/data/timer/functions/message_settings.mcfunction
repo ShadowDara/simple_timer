@@ -1,3 +1,5 @@
+# Display the Popup Settings in the Chat
+
 tellraw @a {"text":"-----------------","bold":true}
 tellraw @a ["",{"text":"["},{"text":"Settings","bold":true,"color":"dark_aqua","clickEvent":{"action":"run_command","value":"/trigger timer_trigger set 6"}},{"text":"]"}]
 tellraw @a ["","[",{"text":"Color Settings","bold":true,"color":"blue","clickEvent":{"action":"run_command","value":"/trigger timer_trigger set 23"}},"]"]

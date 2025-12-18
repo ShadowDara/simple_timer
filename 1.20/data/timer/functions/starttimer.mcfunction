@@ -1,3 +1,5 @@
+# Reset the Timer first before starting
+
 scoreboard players set d runtime 0
 scoreboard players set h runtime 0
 scoreboard players set m runtime 0

@@ -1,3 +1,5 @@
+# The Settings Chat Code to select your favourite Color
+
 tellraw @a {"text":"-----------------","bold":true}
 tellraw @a ["","[",{"text":"Aqua","bold":true,"color":"aqua","clickEvent":{"action":"run_command","value":"/trigger timer_trigger set 7"}},"]"]
 tellraw @a ["","[",{"text":"Black","bold":true,"color":"black","clickEvent":{"action":"run_command","value":"/trigger timer_trigger set 8"}},"]"]
