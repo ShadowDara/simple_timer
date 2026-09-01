@@ -2,6 +2,6 @@
 
 scoreboard players remove cd_m runtime 10
 scoreboard players remove cd_sc runtime 600
-tellraw @a {"text":"removed 10m","bold":true,"italic":true,"color":"dark_red"}
+tellraw @a {text:'removed 10m',bold:true,italic:true,color:'dark_red'}
 
 function timer:countdown/secure/secure_removing
